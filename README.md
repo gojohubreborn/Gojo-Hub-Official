@@ -1,6 +1,6 @@
 # Gojo Hub Offical.
 
-# DO NOT ATTEMPT TO SKID / DEOBFUSCATE, IT WONT WORK.]
+# DO NOT ATTEMPT TO SKID / DEOBFUSCATE, IT WONT WORK.
 
 Gojo Hub is curretly still under development, we currently just released into the public, we don't have much as of now.
 
